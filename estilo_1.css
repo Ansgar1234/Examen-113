@@ -1,0 +1,60 @@
+*{
+    margin: 5px;
+    margin-top: 0px;
+    padding: 5px;
+}
+body{
+    background-color: black;
+    color: #b8bbcc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+header{
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+    
+
+}
+img{
+    height: auto;
+    width: 85%;
+
+}
+h2{
+    color: white;
+}
+a{
+    color: #00cc00;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+section{
+    height: auto;
+    width: 70%;
+    text-align: justify;
+    float: inline-end;
+    float: left;
+}
+aside{
+    margin: 10px auto;
+    float: right;
+    width: 23%;
+    margin-top: 10px;
+    height: auto;
+
+}
+div{
+    height: auto;
+    width: 50%;
+}
+footer{
+    text-align: center;
+    position: relative;
+    bottom: 0%;
+    margin-top: -50px;
+    height: 40px;
+    padding:5px 0px;
+    width: 100%;
+    clear: both;
+    color: white;
+    margin-bottom: 5%;
+
+}
